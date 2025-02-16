@@ -43,9 +43,9 @@ Here are some of the tools and technologies I work with:
 
 
 ## 📫 **Contact Me**  
-- **Email**: ashrafzaliouz@gmail.com  
+- **Email**: ashrafzallouz@gmail.com  
 - **Phone**: (+216) 52504887  
-- **LinkedIn**: [linkedin.com/in/ashrafzaliouz](https://linkedin.com/in/ashrafzaliouz)  
+- **LinkedIn**: [linkedin.com/in/ashrafzallouz](https://linkedin.com/in/ashrafzallouz)  
 
 ---
 

@@ -1,225 +1,101 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Ashraf Zallouz - CV</title>
-  <style>
-    /* General Styles */
-    body {
-      font-family: 'Arial', sans-serif;
-      background: linear-gradient(135deg, #f5f7fa, #c3cfe2);
-      color: #333;
-      margin: 0;
-      padding: 0;
-      line-height: 1.6;
-    }
+# 👋 Hi, I'm **Ashraf Zallouz**  
+### A Passionate Software Engineering Student 🚀  
 
-    .container {
-      max-width: 800px;
-      margin: 50px auto;
-      padding: 20px;
-      background: white;
-      border-radius: 10px;
-      box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
-      animation: fadeIn 1.5s ease-in-out;
-    }
+---
 
-    @keyframes fadeIn {
-      from { opacity: 0; transform: translateY(-20px); }
-      to { opacity: 1; transform: translateY(0); }
-    }
+## 🎨 **About Me**  
+I'm a software engineering student with a love for building innovative solutions and solving complex problems. I enjoy working on full-stack development, exploring new technologies, and creating user-friendly applications. My goal is to contribute to impactful projects and grow as a developer while learning from the tech community.
 
-    h1, h2, h3 {
-      color: #2c3e50;
-    }
+---
 
-    h1 {
-      font-size: 2.5rem;
-      margin-bottom: 10px;
-      animation: slideInLeft 1s ease-in-out;
-    }
+## 🛠️ **Tech Stack**  
+Here are some of the tools and technologies I work with:  
 
-    h2 {
-      font-size: 1.8rem;
-      margin-top: 20px;
-      animation: slideInRight 1s ease-in-out;
-    }
+### **Frontend Development**  
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-    p, li {
-      font-size: 1rem;
-      animation: fadeIn 2s ease-in-out;
-    }
+### **Backend Development**  
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![Express.js](https://img.shields.io/badge/-Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 
-    a {
-      color: #3498db;
-      text-decoration: none;
-    }
+### **Databases**  
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-    a:hover {
-      text-decoration: underline;
-    }
+### **Languages**  
+![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
-    /* Header Section */
-    .header {
-      text-align: center;
-      padding: 20px 0;
-      background: linear-gradient(135deg, #3498db, #2c3e50);
-      color: white;
-      border-radius: 10px;
-      margin-bottom: 20px;
-      animation: slideInTop 1s ease-in-out;
-    }
+### **Tools**  
+![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-    @keyframes slideInTop {
-      from { opacity: 0; transform: translateY(-50px); }
-      to { opacity: 1; transform: translateY(0); }
-    }
+---
 
-    .header h1 {
-      margin: 0;
-      font-size: 2.5rem;
-    }
+## 💼 **Work Experience**
 
-    .header p {
-      margin: 5px 0;
-      font-size: 1.2rem;
-    }
+### **Full Stack Internship**  
+**KerTechnologie** | Jul 2024 – Sep 2024  
+- Designed and developed a platform for restaurants to manage online menus using **Next.js** and **Tailwind CSS**.  
+- Integrated **Firebase** for user authentication and role-based access control.  
+- Optimized site performance, reducing loading times by **30%**.  
 
-    /* Sections */
-    .section {
-      margin-bottom: 30px;
-      padding: 20px;
-      background: #f9f9f9;
-      border-radius: 10px;
-      box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
-      animation: fadeInUp 1s ease-in-out;
-    }
+### **Web Developer**  
+**BS TEAM** | Jul 2021 – Sep 2021  
+- Developed and maintained websites, ensuring cross-browser compatibility and optimal performance.  
+- Collaborated with the team to track project progress and meet deadlines.  
 
-    @keyframes fadeInUp {
-      from { opacity: 0; transform: translateY(20px); }
-      to { opacity: 1; transform: translateY(0); }
-    }
+---
 
-    .section h2 {
-      border-bottom: 2px solid #3498db;
-      padding-bottom: 10px;
-      margin-bottom: 15px;
-    }
+## 🚀 **Projects**
 
-    .section ul {
-      list-style-type: none;
-      padding: 0;
-    }
+### **Professional Appointment Platform**  
+- Built with **MERN stack** (MongoDB, Express.js, React, Node.js) and **Tailwind CSS**.  
+- Designed an intuitive UI for account management and appointment scheduling.  
+- Optimized the application for high performance and smooth navigation.  
 
-    .section ul li {
-      margin-bottom: 10px;
-    }
+### **Car Maintenance Scheduling App**  
+- Created a mobile app for scheduling car maintenance appointments using **Java** and **Android Studio**.  
+- Integrated **Google Maps** to locate the nearest agencies and display available time slots.  
 
-    /* Skills Section */
-    .skills {
-      display: flex;
-      flex-wrap: wrap;
-      gap: 10px;
-    }
+---
 
-    .skill {
-      background: #3498db;
-      color: white;
-      padding: 5px 10px;
-      border-radius: 5px;
-      font-size: 0.9rem;
-      animation: fadeIn 1s ease-in-out;
-    }
+## 📚 **Education**
 
-    /* Footer */
-    .footer {
-      text-align: center;
-      padding: 20px;
-      background: #2c3e50;
-      color: white;
-      border-radius: 10px;
-      margin-top: 20px;
-      animation: slideInBottom 1s ease-in-out;
-    }
+### **Software Engineering**  
+**École Pluridisciplinaire Internationale de Sousse** | 2022 – Present  
 
-    @keyframes slideInBottom {
-      from { opacity: 0; transform: translateY(50px); }
-      to { opacity: 1; transform: translateY(0); }
-    }
-  </style>
-</head>
-<body>
-  <div class="container">
-    <!-- Header -->
-    <div class="header">
-      <h1>Ashraf Zallouz</h1>
-      <p>Software Engineering Student | Full-Stack Developer</p>
-      <p>📍 Tunisia | 📧 ashrafzaliouz@gmail.com | 📞 (+216) 52504887</p>
-      <p>
-        <a href="https://linkedin.com/in/ashrafzaliouz" target="_blank">LinkedIn</a> | 
-        <a href="https://github.com/ashrafzaliouz" target="_blank">GitHub</a>
-      </p>
-    </div>
+### **Applied Bachelor's Degree in Computer Science**  
+**Institut Supérieur des Etudes Technologiques de Sousse** | 2017 – 2021  
 
-    <!-- About Me -->
-    <div class="section">
-      <h2>About Me</h2>
-      <p>
-        A passionate software engineering student specializing in systems and IT architecture. I love creating innovative solutions and have a strong understanding of programming concepts and web development. Seeking a 6-month end-of-study internship to contribute to impactful projects.
-      </p>
-    </div>
+### **Bachelor's Degree in Computer Science**  
+**Lycée Technique Zarzis** | 2014 – 2017  
 
-    <!-- Work Experience -->
-    <div class="section">
-      <h2>Work Experience</h2>
-      <ul>
-        <li>
-          <strong>Full Stack Internship</strong> - KerTechnologie (Jul 2024 – Sep 2024)
-          <ul>
-            <li>Developed a restaurant menu management platform using Next.js and Tailwind CSS.</li>
-            <li>Integrated Firebase for user authentication and role-based access.</li>
-          </ul>
-        </li>
-        <li>
-          <strong>Web Developer</strong> - BS TEAM (Jul 2021 – Sep 2021)
-          <ul>
-            <li>Designed and maintained websites with a focus on performance optimization.</li>
-          </ul>
-        </li>
-      </ul>
-    </div>
+---
 
-    <!-- Projects -->
-    <div class="section">
-      <h2>Projects</h2>
-      <ul>
-        <li>
-          <strong>Professional Appointment Platform</strong> - Built with MERN stack and Tailwind CSS.
-        </li>
-        <li>
-          <strong>Car Maintenance Scheduling App</strong> - Integrated Google Maps for locating agencies.
-        </li>
-      </ul>
-    </div>
+## 🌐 **Languages**  
+- **Arabic**: Native  
+- **French**: C1 (Proficient)  
+- **English**: B2 (Independent)  
 
-    <!-- Skills -->
-    <div class="section">
-      <h2>Technical Skills</h2>
-      <div class="skills">
-        <div class="skill">React</div>
-        <div class="skill">Node.js</div>
-        <div class="skill">MongoDB</div>
-        <div class="skill">Tailwind CSS</div>
-        <div class="skill">JavaScript</div>
-        <div class="skill">Java</div>
-      </div>
-    </div>
+---
 
-    <!-- Footer -->
-    <div class="footer">
-      <p>© 2023 Ashraf Zallouz | Designed with ❤️</p>
-    </div>
-  </div>
-</body>
-</html>
+## 📫 **Contact Me**  
+- **Email**: ashrafzaliouz@gmail.com  
+- **Phone**: (+216) 52504887  
+- **LinkedIn**: [linkedin.com/in/ashrafzaliouz](https://linkedin.com/in/ashrafzaliouz)  
+- **GitHub**: [github.com/ashrafzaliouz](https://github.com/ashrafzaliouz)  
+
+---
+
+Made with ❤️ by **Ashraf Zallouz**

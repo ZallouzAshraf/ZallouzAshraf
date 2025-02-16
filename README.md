@@ -40,61 +40,12 @@ Here are some of the tools and technologies I work with:
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
----
 
-## 💼 **Work Experience**
-
-### **Full Stack Internship**  
-**KerTechnologie** | Jul 2024 – Sep 2024  
-- Designed and developed a platform for restaurants to manage online menus using **Next.js** and **Tailwind CSS**.  
-- Integrated **Firebase** for user authentication and role-based access control.  
-- Optimized site performance, reducing loading times by **30%**.  
-
-### **Web Developer**  
-**BS TEAM** | Jul 2021 – Sep 2021  
-- Developed and maintained websites, ensuring cross-browser compatibility and optimal performance.  
-- Collaborated with the team to track project progress and meet deadlines.  
-
----
-
-## 🚀 **Projects**
-
-### **Professional Appointment Platform**  
-- Built with **MERN stack** (MongoDB, Express.js, React, Node.js) and **Tailwind CSS**.  
-- Designed an intuitive UI for account management and appointment scheduling.  
-- Optimized the application for high performance and smooth navigation.  
-
-### **Car Maintenance Scheduling App**  
-- Created a mobile app for scheduling car maintenance appointments using **Java** and **Android Studio**.  
-- Integrated **Google Maps** to locate the nearest agencies and display available time slots.  
-
----
-
-## 📚 **Education**
-
-### **Software Engineering**  
-**École Pluridisciplinaire Internationale de Sousse** | 2022 – Present  
-
-### **Applied Bachelor's Degree in Computer Science**  
-**Institut Supérieur des Etudes Technologiques de Sousse** | 2017 – 2021  
-
-### **Bachelor's Degree in Computer Science**  
-**Lycée Technique Zarzis** | 2014 – 2017  
-
----
-
-## 🌐 **Languages**  
-- **Arabic**: Native  
-- **French**: C1 (Proficient)  
-- **English**: B2 (Independent)  
-
----
 
 ## 📫 **Contact Me**  
 - **Email**: ashrafzaliouz@gmail.com  
 - **Phone**: (+216) 52504887  
 - **LinkedIn**: [linkedin.com/in/ashrafzaliouz](https://linkedin.com/in/ashrafzaliouz)  
-- **GitHub**: [github.com/ashrafzaliouz](https://github.com/ashrafzaliouz)  
 
 ---
 
